@@ -1,2 +1,2 @@
 # HeartWise
-I created the cutting-edge programme HeartWise, which is hosted on GitHub and gives users the ability to estimate their risk of developing heart disease.
+I created the cutting-edge programme HeartWise, which is hosted on GitHub and gives users the ability to estimate their risk of developing heart disease. It analyses personal health data using machine learning algorithms to offer preemptive insights. Its user-friendly interface enables independent health assessment by bridging medical complexity and individual understanding. Join me on GitHub as I promote heart health with cutting-edge technologies.
